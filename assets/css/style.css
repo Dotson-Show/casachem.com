@@ -421,7 +421,6 @@ h6,
 
 #hero .carousel-content {
   text-align: center;
-  background-color: #a4c0d8;
   max-width: 760px;
 }
 
@@ -449,9 +448,10 @@ h6,
 }
 
 #hero p {
-  background-color: #18d26e;
+  padding-bottom: 5px;
   width: 100%;
   color: #fff;
+  margin: 0 auto 15px auto;
   font-size: 20px;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
