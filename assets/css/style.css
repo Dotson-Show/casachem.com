@@ -234,7 +234,7 @@ h6,
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #428bca;
+  color: #42ca54;
 }
 
 .navbar .dropdown:hover>ul {
@@ -269,7 +269,7 @@ h6,
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #1f3548;
+  color: #1f4826;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -298,7 +298,7 @@ h6,
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(31, 53, 72, 0.9);
+  background: rgba(31, 72, 32, 0.9);
   transition: 0.3s;
   z-index: 998;
 }
@@ -326,13 +326,13 @@ h6,
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #1f3548;
+  color: #1f4825;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #428bca;
+  color: #42ca56;
 }
 
 .navbar-mobile .getstarted,
@@ -349,7 +349,7 @@ h6,
   opacity: 1;
   visibility: visible;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px rgba(128, 161, 127, 0.25);
 }
 
 .navbar-mobile .dropdown ul li {
@@ -367,7 +367,7 @@ h6,
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #428bca;
+  color: #42ca50;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
